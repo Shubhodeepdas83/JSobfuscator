@@ -1,0 +1,43 @@
+
+/* Copyright Lunarmedia */
+.ForumPostTitle {
+	font-weight: normal;
+	margin:0pt 0pt 0pt 4px;
+}
+#CommonHeader 
+{
+	height: 76px;
+}
+#CommonNavigationShadow
+{
+	margin-bottom: 6px;
+}
+#packer #CommonContent
+{
+	padding: 0 2px 0 0;
+}
+#packer .CommonSidebar
+{
+	width: 300px;
+	margin-top: 3px;
+}
+.CommonBreadCrumbArea
+{
+	padding: 6px 0;
+}
+.CommonContentBoxContent
+{
+	padding-bottom: 1px;
+}
+#CommonHeaderUserArea a:hover
+{
+	background: none;
+}
+#CommonNavigation a.Selected
+{
+	background: #F2F3F7;
+}
+#CommonNavigation a:hover
+{
+	background-color: #F2F3F7;
+}

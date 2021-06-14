@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Jun 2021 10:11:50 at https://javascriptcompressor.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://javascriptcompressor.com -O1 "C:\My Web Sites\JS Obfuscater" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:11:59	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/favicon.png (from https://javascriptcompressor.com/)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/content/HowtouseJavascriptCompressor.aspx (from https://javascriptcompressor.com/)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/utility/loading.htm (from https://javascriptcompressor.com/)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/download.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/locked.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/blog.png (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/forum.png (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/media.png (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/page.png (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/close.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/resize.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/up.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/down.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/delete.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/tabset.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/openid.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/button-right-arrow.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-profile-announcement.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-profile-comment.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-user.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-blog.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-blog-post.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-blog-comment.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-forum.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-forum-thread.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-forum-post.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-media-gallery.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-media-gallery-post.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-media-gallery-comment.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-group.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-group-member.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-friend.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-group-page.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-user-file.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/activities/new-folder.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+10:12:14	Error: 	"Not Found" (404) at link https://javascriptcompressor.com/themes/hawaii/images/common/search-button.gif (from https://javascriptcompressor.com/themes/hawaii/style/Common.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 53 links scanned, 16 files written (370519 bytes overall) [369977 bytes received at 15415 bytes/sec], 163218 bytes transferred using HTTP compression in 49 files, ratio 40%, 10.6 requests per connection
+(36 errors, 0 warnings, 0 messages)

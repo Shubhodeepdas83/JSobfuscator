@@ -1,0 +1,50 @@
+
+<!--
+/* Generic Javascript compressor style 	*/
+/* Copyright Lunarmedia             	*/
+/* Date: June 2006                 		*/
+/* Last update: 10 june		    		*/
+/* -------------------------------- 	*/
+
+/* selector */
+/* For IE */
+button
+{
+	cursor: expression(this.type=="button" ?'pointer':'');
+}
+
+
+/* For Firefox */
+button[type="button"] 
+{
+	cursor: pointer;
+}
+
+ul{list-style-type: none;}
+
+img{
+	border: 0;
+}
+.r{
+	float: right;
+}
+
+.l{
+	float: left;
+}
+.al{
+	text-align: left;
+}
+
+.ar{
+	text-align: right;
+}
+
+
+/* Removes outline */
+a:active{outline: none;}
+:focus{-moz-outline-style: none;}
+
+
+
+-->
